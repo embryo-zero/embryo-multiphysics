@@ -1,0 +1,7 @@
+# Changes made by Embryo-Zero (Embryo Zero Backyard Data Center Corporation) to Elmer FEM
+
+Forked from 903e7b8 (commit 903e7b8) on 2026-11-16. All changes are on the `embryo` branch; `git log` has the full detail.
+
+| Date | Files | Change |
+|---|---|---|
+| 2026-11-16 | EMBRYO.md, LEGAL.md, CHANGES-EMBRYO.md (new) | Fork notes, legal notes and this list. No original file changed yet. |
