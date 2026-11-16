@@ -14,3 +14,6 @@ License (read from its license file on 2026-11-16): **GPL-2**. Original license 
 - Bundled third-party parts keep their own licenses: CHECK them before a release.
 - What people make with the tool belongs to them; the tool's license does not cover its output.
 - No warranty beyond what the license says.
+
+## Elmer license detail (read by hand)
+- LICENSE.md is GPL-2.0; Elmer also has library parts under LGPL-2.1 (e.g. ElmerSolver library files carry LGPL headers). CHECK file headers before shipping parts separately.
